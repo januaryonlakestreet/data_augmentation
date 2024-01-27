@@ -4,7 +4,7 @@
  
 percentage of correct keypoints for 2.0 for the leeds sports poses dataset.
 
-| Percentage of correct keypoints at 2.0 area | Score |
+| area to check percentage of correct keypoints at 2.0  | % |
 | --- | --- |
 | Shoulders | 92.7  |
 | Elbow |  93.4 |
