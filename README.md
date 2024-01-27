@@ -16,7 +16,7 @@ percentage of correct keypoints for 2.0 for the leeds sports poses dataset.
 
 
 ## method
-
+![methodology](https://raw.githubusercontent.com/januaryonlakestreet/data_augmentation/main/generated_images/outline.png)
 
 
 ## examples
