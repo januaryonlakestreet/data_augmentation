@@ -14,14 +14,13 @@ Certainly! Here's an example GitHub table that you can include in your README:
 
 markdown
 Copy code
-| Feature | Description |
+| Percentage of correct keypoints at 2.0 area | Score |
 | --- | --- |
-| Language | Python |
-| Framework | Flask |
-| Database | PostgreSQL |
-| Frontend | HTML, CSS, JavaScript |
-| Version Control | Git |
-| CI/CD | GitHub Actions |
-| Testing | pytest |
-| Documentation | Sphinx |
-| License | MIT |
+| Shoulders | 92.7  |
+| Elbow |  93.4 |
+| Wrist | 92.7 |
+| Hips | 90.6 |
+| Knees | 91.6  |
+| Ankles | 90.8 |
+| Mean |  91.7 |
+
