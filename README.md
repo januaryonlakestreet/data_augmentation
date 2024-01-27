@@ -4,6 +4,6 @@
  
 percentage of correct keypoints for 2.0 for the leeds sports poses dataset.
 
-| Percentage of correct keypoints at 2.0 | shoulders    | elbow    | wrist    | hips    |  knees    |  ankles    |  mean    |
-| :---:   | :---: | :---: | :---:   | :---: | :---: |
-| score | 92.7   | 93.4   |92.7   |90.6 |91.6 | 90.8|91.7
+| Percentage of correct keypoints at 2.0 | Shoulders | Elbow | Wrist | Hips | Knees | Ankles | Mean |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Score | 92.7 | 93.4 | 92.7 | 90.6 | 91.6 | 90.8 | 91.7 |
